@@ -92,6 +92,5 @@ while True:
     elif choice == "5":
         print("Exiting the program...")
         break
-
     else:
         print("Invalid option. Please try again.")
