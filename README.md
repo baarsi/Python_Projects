@@ -4,7 +4,7 @@
 Welcome to my Python Project Portfolio! This collection of projects demonstrates my programming skills and problem-solving abilities across a range of topics, including data analysis, game development, API interaction, and automation. Each project serves as a practical application of various Python concepts and libraries, showcasing my versatility and creativity as a developer.
 As someone passionate about technology and process optimization, I have built these projects not only to expand my technical expertise but also to offer real-world solutions for automating tasks, managing data, and creating fun, interactive experiences. Below is a brief introduction to each project, including its features and use cases.
 
-Projects
+# Projects
 
 1. Transaction Analyzer
 This project is a Python script designed to help users track their financial activities. It manages deposits and withdrawals, calculates the current balance, and provides insightful statistics such as the average transaction amounts and the largest deposit/withdrawal.
@@ -59,34 +59,34 @@ This conversational bot engages users by asking for their name, age, and favorit
 Use case: Conversational bot for user interaction.
 Key Concepts: Input handling, string manipulation, basic arithmetic.
 
-Technologies and Tools Used:
+# Technologies and Tools Used:
 Programming Language: Python 3.x
 
-Libraries:
+# Libraries:
 requests (for API interaction in the Star Wars API and ChatGPT Clone projects)
 Built-in Python libraries (random, os, sys, etc.)
 
-Development Environment:
+# Development Environment:
 Local Python environment
 Code editors such as Visual Studio Code or PyCharm
 
-How to Run the Projects:
+# How to Run the Projects:
 1. Clone the Repository: Clone or download each project script to your local environment.
 2. Install Python: Make sure Python 3.x is installed on your system.
 3. Install Required Libraries: For projects involving external libraries (like requests for API interaction), install them using pip: pip install requests
 4. Run the Script: Navigate to the project folder and run the script in the terminal or IDE: python <script_name>.py
 
-Conclusion:
+# Conclusion:
 This portfolio reflects my journey as a Python developer, exploring various concepts from API integrations and automation to game design and data analysis. It is a dynamic collection of projects built with care and attention to detail, and each project has provided valuable learning experiences.
 Feel free to explore the projects, run the scripts, and review the code to see how Python can be used to solve a wide range of problems. Thank you for checking out my portfolio!
 
 [pt-br]
-Visão geral
+## Visão geral
 
 Bem-vindo ao meu portfólio de projetos Python! Esta coleção de projetos demonstra minhas habilidades de programação e de resolução de problemas em uma série de tópicos, incluindo análise de dados, desenvolvimento de jogos, interação com APIs e automação. Cada projeto serve como uma aplicação prática de vários conceitos e bibliotecas Python, demonstrando minha versatilidade e criatividade como desenvolvedor.
 Como apaixonado por tecnologia e otimização de processos, criei esses projetos não apenas para expandir minha experiência técnica, mas também para oferecer soluções do mundo real para automatizar tarefas, gerenciar dados e criar experiências divertidas e interativas. Veja abaixo uma breve introdução a cada projeto, incluindo seus recursos e casos de uso.
 
-Projetos
+# Projetos
 
 1. Analisador de transações
 Este projeto é um script Python desenvolvido para ajudar os usuários a acompanhar suas atividades financeiras. Ele gerencia depósitos e retiradas, calcula o saldo atual e fornece estatísticas detalhadas, como os valores médios das transações e o maior depósito/retirada.
@@ -98,8 +98,6 @@ Conceitos-chave: Operações de lista, tratamento de entrada do usuário, análi
 Este projeto se conecta à API do Star Wars (SWAPI) e obtém dados sobre várias entidades do Star Wars. Ele permite que os usuários insiram uma categoria (por exemplo, pessoas, planetas) e exibe os nomes associados a essa categoria.
 Caso de uso: Obtenção e exploração de dados por meio da interação com a API.
 Conceitos-chave: API RESTful, solicitações HTTP, dados JSON.
-
-Exibir detalhes do projeto
 
 3. Jogo de tirar uma carta
 Esse programa Python simula a retirada de cartas de um baralho embaralhado. Os usuários podem especificar quantas cartas devem ser retiradas, e o programa exibe as cartas retiradas em um formato estilizado.
@@ -143,23 +141,23 @@ Esse bot de conversação envolve os usuários perguntando seu nome, idade e cor
 Caso de uso: Bot de conversação para interação com o usuário.
 Principais conceitos: Tratamento de entrada, manipulação de cadeia de caracteres, aritmética básica.
 
-Tecnologias e ferramentas usadas:
+# Tecnologias e ferramentas usadas:
 Linguagem de programação: Python 3.x
 
-Bibliotecas:
+# Bibliotecas:
 requests (para interação de API nos projetos Star Wars API e ChatGPT Clone)
 Bibliotecas Python incorporadas (random, os, sys, etc.)
 
-Ambiente de desenvolvimento:
+# Ambiente de desenvolvimento:
 Ambiente Python local
 Editores de código, como o Visual Studio Code ou o PyCharm
 
-Como executar os projetos:
+# Como executar os projetos:
 1. Clone o repositório: Clone ou baixe cada script de projeto em seu ambiente local.
 2. Instale o Python: Certifique-se de que o Python 3.x esteja instalado em seu sistema.
 3. Instale as bibliotecas necessárias: Para projetos que envolvem bibliotecas externas (como solicitações de interação de API), instale-as usando pip: pip install requests
 4. Execute o script: Navegue até a pasta do projeto e execute o script no terminal ou no IDE: python <script_name>.py
 
-Conclusão:
+# Conclusão:
 Este portfólio reflete minha jornada como desenvolvedor Python, explorando vários conceitos, desde integrações de API e automação até design de jogos e análise de dados. É uma coleção dinâmica de projetos criados com cuidado e atenção aos detalhes, e cada projeto proporcionou valiosas experiências de aprendizado.
 Sinta-se à vontade para explorar os projetos, executar os scripts e revisar o código para ver como o Python pode ser usado para resolver uma ampla gama de problemas. Obrigado por conferir meu portfólio!
