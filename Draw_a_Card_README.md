@@ -18,7 +18,7 @@ This is a fun and interactive way for users to simulate card games or card draws
 3. Run the script, and follow the prompts to draw cards from the deck.
 
 [pt-br]
-# Desenhe um jogo de cartas
+# Jogo de cartas
 
 ## Descrição
 O jogo Draw a Card é um programa Python simples que simula a retirada de cartas de um baralho padrão de 52 cartas. Ele gera um baralho embaralhado e os usuários podem especificar quantas cartas desejam tirar. As cartas retiradas são exibidas em um formato estilizado baseado em texto, semelhante às cartas de baralho físicas. Esse projeto é um ótimo exercício para trabalhar com listas, loops e randomização em Python.
